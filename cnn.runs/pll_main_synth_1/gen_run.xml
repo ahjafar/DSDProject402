@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="pll_main_synth_1" LaunchPart="xcku040-ffva1156-2-e" LaunchTime="1688376591">
+  <File Type="PA-TCL" Name="pll_main.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="pll_main_drc_synth.rpt"/>
+  <File Type="REPORTS-TCL" Name="pll_main_reports.tcl"/>
+  <File Type="RDS-RDS" Name="pll_main.vds"/>
+  <File Type="RDS-UTIL" Name="pll_main_utilization_synth.rpt"/>
+  <File Type="RDS-UTIL-PB" Name="pll_main_utilization_synth.pb"/>
+  <File Type="RDS-DCP" Name="pll_main.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="pll_main_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="pll_main_timing_summary_synth.pb"/>
+  <FileSet Name="sources" Type="BlockSrcs" RelSrcDir="$PSRCDIR/pll_main">
+    <File Path="$PSRCDIR/sources_1/ip/pll_main/pll_main.xci">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../cnn_open/model/xilinx/ku/pll/pll_main_250/pll_main.xci"/>
+        <Attr Name="ImportTime" Val="1688373867"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="pll_main"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="BlockSrcs" RelSrcDir="$PSRCDIR/pll_main">
+    <File Path="$PSRCDIR/sources_1/ip/pll_main/pll_main.xci">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../cnn_open/model/xilinx/ku/pll/pll_main_250/pll_main.xci"/>
+        <Attr Name="ImportTime" Val="1688373867"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopModule" Val="pll_main"/>
+      <Option Name="UseBlackboxStub" Val="1"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2018">
+      <Desc>Vivado Synthesis Defaults</Desc>
+    </StratHandle>
+    <Step Id="synth_design"/>
+  </Strategy>
+</GenRun>

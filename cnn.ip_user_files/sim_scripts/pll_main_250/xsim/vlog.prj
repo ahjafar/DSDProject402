@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../../cnn_open/model/xilinx/ku/pll/pll_main_250/pll_main_sim_netlist.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

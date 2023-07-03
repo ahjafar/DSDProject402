@@ -1,0 +1,128 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.conv1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_134  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.conv1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_134  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_181  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_181  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.conv2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_676  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.conv2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/conv2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_676  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_743  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_743  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu_fc1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu_fc1_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc1_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. tb.lenet.relu_fc2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. tb.lenet.relu_fc2_buf.u.xpm_memory_sdpram_inst.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /tb/lenet/relu_fc2_buf/u/xpm_memory_sdpram_inst/xpm_memory_base_inst/Initial285_823  File: /wrk/2018.3/nightly/2018_12_06_2405991/packages/customer/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+T                1000 rstn done#############################
+T              186618==process a frame          0, digit  7 =============
+T              371238==process a frame          1, digit  2 =============
+T              555858==process a frame          2, digit  1 =============
+T              740478==process a frame          3, digit  0 =============
+T              925098==process a frame          4, digit  4 =============
+T             1109718==process a frame          5, digit  1 =============
+T             1294338==process a frame          6, digit  9 =============
+T             1478958==process a frame          7, digit  9 =============
+T             1663578==process a frame          8, digit  5 =============
+T             1848198==process a frame          9, digit  9 =============
+T             2032818==process a frame         10, digit  0 =============
+T             2217438==process a frame         11, digit  6 =============
+T             2402058==process a frame         12, digit  9 =============
+T             2586678==process a frame         13, digit  0 =============
+T             2771298==process a frame         14, digit  1 =============
+T             2955918==process a frame         15, digit  5 =============
+T             3140538==process a frame         16, digit  9 =============
+T             3325158==process a frame         17, digit  7 =============
+T             3509778==process a frame         18, digit  5 =============
+T             3694398==process a frame         19, digit  4 =============
+T             3879018==process a frame         20, digit  9 =============
+T             4063638==process a frame         21, digit  5 =============
+T             4248258==process a frame         22, digit  5 =============
+T             4432878==process a frame         23, digit  5 =============
+T             4617498==process a frame         24, digit  5 =============
+T             4802118==process a frame         25, digit  0 =============
+T             4986738==process a frame         26, digit  7 =============
+T             5171358==process a frame         27, digit  4 =============
+T             5355978==process a frame         28, digit  0 =============
+T             5540598==process a frame         29, digit  1 =============
+T             5725218==process a frame         30, digit  3 =============
+T             5909838==process a frame         31, digit  1 =============
+T             6094458==process a frame         32, digit  3 =============
+T             6279078==process a frame         33, digit  5 =============
+T             6463698==process a frame         34, digit  7 =============
+T             6648318==process a frame         35, digit  2 =============
+T             6832938==process a frame         36, digit  7 =============
+T             7017558==process a frame         37, digit  1 =============
+T             7202178==process a frame         38, digit  2 =============
+T             7386798==process a frame         39, digit  1 =============
+T             7571418==process a frame         40, digit  1 =============
+T             7756038==process a frame         41, digit  7 =============
+T             7940658==process a frame         42, digit  4 =============
+T             8125278==process a frame         43, digit  1 =============
+T             8309898==process a frame         44, digit  3 =============
+T             8494518==process a frame         45, digit  5 =============
+T             8679138==process a frame         46, digit  1 =============
+T             8863758==process a frame         47, digit  2 =============
+T             9048378==process a frame         48, digit  9 =============
+T             9232998==process a frame         49, digit  4 =============
+T             9417618==process a frame         50, digit  5 =============
+T             9602238==process a frame         51, digit  3 =============
+T             9786858==process a frame         52, digit  5 =============
+T             9971478==process a frame         53, digit  5 =============
+T            10156098==process a frame         54, digit  6 =============
+T            10340718==process a frame         55, digit  0 =============
+T            10525338==process a frame         56, digit  4 =============
+T            10709958==process a frame         57, digit  1 =============
+T            10894578==process a frame         58, digit  9 =============
+T            11079198==process a frame         59, digit  5 =============
+T            11263818==process a frame         60, digit  7 =============
+T            11448438==process a frame         61, digit  8 =============
+T            11633058==process a frame         62, digit  5 =============
+T            11817678==process a frame         63, digit  3 =============
+T            12002298==process a frame         64, digit  7 =============
+T            12186918==process a frame         65, digit  5 =============
+T            12371538==process a frame         66, digit  6 =============
+T            12556158==process a frame         67, digit  4 =============
+T            12740778==process a frame         68, digit  3 =============
+T            12925398==process a frame         69, digit  0 =============
+T            13110018==process a frame         70, digit  7 =============
+T            13294638==process a frame         71, digit  0 =============
+T            13479258==process a frame         72, digit  2 =============
+T            13663878==process a frame         73, digit  9 =============
+T            13848498==process a frame         74, digit  1 =============
+T            14033118==process a frame         75, digit  7 =============
+T            14217738==process a frame         76, digit  3 =============
+T            14402358==process a frame         77, digit  2 =============
+T            14586978==process a frame         78, digit  9 =============
+T            14771598==process a frame         79, digit  7 =============
+T            14956218==process a frame         80, digit  7 =============
+T            15140838==process a frame         81, digit  5 =============
+T            15325458==process a frame         82, digit  2 =============
+T            15510078==process a frame         83, digit  7 =============
+T            15694698==process a frame         84, digit  8 =============
+T            15879318==process a frame         85, digit  4 =============
+T            16063938==process a frame         86, digit  7 =============
+T            16248558==process a frame         87, digit  3 =============
+T            16433178==process a frame         88, digit  6 =============
+T            16617798==process a frame         89, digit  1 =============
+T            16802418==process a frame         90, digit  3 =============
+T            16987038==process a frame         91, digit  5 =============
+T            17171658==process a frame         92, digit  9 =============
+T            17356278==process a frame         93, digit  3 =============
+T            17540898==process a frame         94, digit  1 =============
+T            17725518==process a frame         95, digit  5 =============
+T            17910138==process a frame         96, digit  1 =============
+T            18094758==process a frame         97, digit  7 =============
+T            18279378==process a frame         98, digit  5 =============
+T            18463998==process a frame         99, digit  9 =============
+$finish called at time : 18564007500 ps : File "C:/Users/AmirHasan/Desktop/DSDProject/cnn/cnn.srcs/sources_1/imports/cnn_open/testbench/lenet_tb.v" Line 60

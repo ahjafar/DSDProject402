@@ -1,0 +1,2 @@
+pll_main_sim_netlist.v,verilog,xil_defaultlib,../../../../cnn.srcs/sources_1/ip/pll_main/pll_main_sim_netlist.v,incdir="../../../../cnn.srcs/sources_1/ip/pll_main"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../cnn.srcs/sources_1/imports/cnn_open/src" --include "../../../../cnn.srcs/sources_1/ip/pll_main" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/model/xilinx/xilinx_srams.v" \
+
+sv xil_defaultlib  --include "../../../../cnn.srcs/sources_1/imports/cnn_open/src" --include "../../../../cnn.srcs/sources_1/ip/pll_main" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/model/bhvsram/bhv_1w1r_sram.v" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/src/cnn.v" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/src/lenet.v" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/src/lenet_roms.v" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/model/xilinx/xilinx_1w1r_sram.v" \
+"../../../../cnn.srcs/sources_1/imports/cnn_open/testbench/lenet_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

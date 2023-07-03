@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Jul  3 12:59:53 2023
+# Process ID: 36464
+# Current directory: C:/Users/AmirHasan/Desktop/DSDProject/cnn/cnn.runs/pll_main_synth_1
+# Command line: vivado.exe -log pll_main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source pll_main.tcl
+# Log file: C:/Users/AmirHasan/Desktop/DSDProject/cnn/cnn.runs/pll_main_synth_1/pll_main.vds
+# Journal file: C:/Users/AmirHasan/Desktop/DSDProject/cnn/cnn.runs/pll_main_synth_1\vivado.jou
+#-----------------------------------------------------------
+source pll_main.tcl -notrace
